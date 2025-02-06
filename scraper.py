@@ -4,7 +4,7 @@ import smtplib
 
 
 # URL of the product
-url = 'https://www.amazon.in/iPhone-16-Pro-Max-256/dp/B0DGJJM5HZ/ref=sr_1_2?crid=1J9SG8PB5PTX6&dib=eyJ2IjoiMSJ9._2x8IUpCs9yuvr42V7LJno07jGeJTJcJNdKEUV9p03RSIS2Wn3LPAUPSIpEiPKU4k4mJknAUIzStYdUebQTQd8xz1uQceP_QfwCrping_IkdIh7rWkdoRD8kWGALpKH5dCMI0S4uS17Jsqs0gKwUZWaoOB1xYRPjs9Eb0K_Pjqs7ZmUWj-AreMgBWPVUO2H1uTIFjp0s46y74htuzX6jFAQpFRHv7CC35SpTGBqiOlM.Qrd0XoYg8oF7gaBrt1jzD9rO2tO0h83XZsDmwkPimdE&dib_tag=se&keywords=iphone+16pro+max&nsdOptOutParam=true&qid=1738678503&sprefix=iphone%2Caps%2C301&sr=8-2'
+url = '<add-amazon-URL>'
 
 
 headers = {

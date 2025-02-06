@@ -30,7 +30,7 @@ def check_price():
 
 def send_telegram_notification(price):
     bot_token = '7566648525:AAH334KcFwswp5YIgugBAUQ8mVgNWv_j3og'
-    chat_id = '5091164754'
+    chat_id = '<your-chat-id>'
     message = f"The price has dropped! The current price is: rupees {price}"
     
     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
